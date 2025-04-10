@@ -50,20 +50,7 @@ Soy un firme creyente en el aprendizaje continuo y disfruto enfrentando nuevos d
 ## Entornos que utilizo
 
 
-<div align="center">
-<!-- Link de Informatica powercenter -->
-<img width="40px" title="Informatica PowerCenter" src="https://images.contentstack.io/v3/assets/bltf2fca5bf44f5e817/blt56ff4c76be4b6769/654292efa7f5f10018700465/informatica-logo.png" /> &nbsp;
-<img width="40px" title="Amazon Web Services" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" /> &nbsp;
-<img width="40px" height="40px" title="Salesforce" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png"/> &nbsp;
-<img width="40px" title="Oracle VM VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" /><br>
-<img width="40px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" /> &nbsp;  
-<img width="40px" title="Odoo" src="https://cdn.freebiesupply.com/logos/large/2x/odoo-logo-png-transparent.png" /> &nbsp;
-<img width="40px" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" /> &nbsp;
-<img width="40px" height="40px" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> &nbsp;
-<img width="40px" height="40px" title="Google Workspace" src="https://www.tec-innova.mx/wp-content/uploads/2023/06/GoogleApps.png" /> &nbsp;
-<img width="40px" height="40px" title="Slack" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" /> &nbsp;
 
-</div>
 
 ## ¿Hablamos?
 
